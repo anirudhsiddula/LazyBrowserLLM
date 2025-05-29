@@ -30,7 +30,7 @@ Unzip the downloaded folder to a convenient location.
 
 ### 3. Run the Script
 
-Double-click `open_browsers.bat`. This will execute the Python script and open your browsers automatically.
+Double-click `LLM.bat`. This will execute the Python script and open your browsers automatically.
 
 #### Requirements
 
